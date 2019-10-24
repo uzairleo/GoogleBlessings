@@ -16,7 +16,7 @@ class Dart extends StatelessWidget {
       url: "https://dart.dev",
       displayZoomControls: true,
       withZoom: true,
-      allowFileURLs: true,
+      allowFileURLs: true,//leoiam
     );
   }
 }
